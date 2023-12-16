@@ -1,0 +1,7 @@
+C:\Users\Qube\source\repos\Romanenko_lab4\Romanenko_lab4\obj\Debug\Romanenko_lab4.csproj.AssemblyReference.cache
+C:\Users\Qube\source\repos\Romanenko_lab4\Romanenko_lab4\obj\Debug\Romanenko_lab4.csproj.CoreCompileInputs.cache
+C:\Users\Qube\source\repos\Romanenko_lab4\Romanenko_lab4\bin\Debug\Romanenko_lab4.exe.config
+C:\Users\Qube\source\repos\Romanenko_lab4\Romanenko_lab4\bin\Debug\Romanenko_lab4.exe
+C:\Users\Qube\source\repos\Romanenko_lab4\Romanenko_lab4\bin\Debug\Romanenko_lab4.pdb
+C:\Users\Qube\source\repos\Romanenko_lab4\Romanenko_lab4\obj\Debug\Romanenko_lab4.exe
+C:\Users\Qube\source\repos\Romanenko_lab4\Romanenko_lab4\obj\Debug\Romanenko_lab4.pdb
